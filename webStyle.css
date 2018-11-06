@@ -1,0 +1,89 @@
+*
+
+img
+{
+    border-width:2px; border-style:solid; border-color:black;
+}
+
+
+h1
+{
+
+    font-family: "Verdana", "Helvetica", sans-serif; 
+    text-align:center;
+}
+
+h3
+{
+    font-family: "Arial", "helvetica bold", sans-serif;
+    text-align: left;
+    color: midnightblue
+}
+
+.para
+{
+    text-align:center;
+    font-family:"Times New Roman", Times, serif;
+    font:italic bold 16px arial,sans-serif;
+    color:midnightblue;
+
+}
+
+.f1
+{
+border: 1px solid black; 
+padding: 5px 9px; 
+text-decoration: none; 
+margin-right: 5px;  
+display: inline-block;
+ background-color:lightblue;
+
+}
+
+.f2
+{
+    border: 1px solid black; 
+    padding: 5px 9px; 
+    text-decoration: none; 
+    margin-right: 5px;  
+    display: inline-block;
+    background-color:lightblue;
+
+}
+
+.f3
+{
+
+    border: 1px solid black; 
+    padding: 5px 9px; 
+    text-decoration: none; 
+    margin-right: 5px;  
+    display: inline-block;
+    background-color:lightblue;
+
+}
+
+table
+{
+
+border-width:5px; border-style:solid; border-color:rgb(0, 0, 0);
+margin-left: 30px;
+
+}
+
+
+td
+{
+
+color:rgb(105, 87, 207);
+
+}
+
+body
+{
+
+background-color: blue; 
+
+
+}
+
